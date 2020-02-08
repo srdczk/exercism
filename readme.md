@@ -1,1 +1,1 @@
-### exercises at [exercism](exercism.io)
+### exercises at [exercism](https://exercism.io)
